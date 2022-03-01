@@ -1,3 +1,11 @@
+
+
+# POS Scanner 
+
+
+This is a /net core 3.1 console app. Might need to install dependency to run this appplication
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 # POS Scanner Test Suite
 
 
