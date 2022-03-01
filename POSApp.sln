@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POSApp", "POSApp\POSApp.csproj", "{FE54213E-28F2-4A3C-BF3D-99973E8F2D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSApp.Test", "POSApp.Test\POSApp.Test.csproj", "{EC763B94-65EE-489D-8278-A7D42368E17A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D7CE19F-8652-4B21-B7B0-2C1ABC292CF5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\POS Scanner Test Suite.md = ..\..\..\Downloads\POS Scanner Test Suite.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE54213E-28F2-4A3C-BF3D-99973E8F2D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE54213E-28F2-4A3C-BF3D-99973E8F2D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE54213E-28F2-4A3C-BF3D-99973E8F2D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE54213E-28F2-4A3C-BF3D-99973E8F2D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC763B94-65EE-489D-8278-A7D42368E17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC763B94-65EE-489D-8278-A7D42368E17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC763B94-65EE-489D-8278-A7D42368E17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC763B94-65EE-489D-8278-A7D42368E17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F0EE454-DBAD-4ADB-A952-6994C5157A30}
+	EndGlobalSection
+EndGlobal

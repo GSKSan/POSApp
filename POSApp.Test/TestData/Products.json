@@ -1,0 +1,30 @@
+[{
+
+  "ProductName": "A",
+  "SinglePrice": 1.25,
+  "ComboQuantity": 3,
+  "ComboPrice": 3.00
+},
+
+{
+  "ProductName": "B",
+  "SinglePrice": 4.25,
+  "ComboQuantity": 0,
+  "ComboPrice": 0.00
+},
+
+{
+  "ProductName": "C",
+  "SinglePrice": 1.00,
+  "ComboQuantity": 6,
+  "ComboPrice": 5.00
+},
+
+{
+  "ProductName": "D",
+  "SinglePrice": 0.75,
+  "ComboQuantity": 0,
+  "ComboPrice": 0.00
+}
+]
+
